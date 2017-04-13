@@ -18,4 +18,4 @@ def removeAdjacentRepeats(nums):
   return nums
   
 nums = ["A", "B", "C", "C", "C", "C", "B", "A"]  
-print removeAdjacent(nums)
+print removeAdjacentRepeats(nums)
