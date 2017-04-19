@@ -106,7 +106,7 @@ class LinkedList(object):
      
      
     # method to delete the first node of the linked list
-    def deleteBeg(self):
+    def delete_beg(self):
         if self.length == 0:
             print "The list is empty"
         else:
